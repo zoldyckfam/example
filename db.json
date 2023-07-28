@@ -555,16 +555,6 @@
   ],
   "cart": [
     {
-      "id": 1,
-      "title": "iPhone 9",
-      "brand": "Apple",
-      "thumbnail": "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
-      "price": 549,
-      "quantity": 2,
-      "requestId": "jtfouhtwTVVdkahFViY2V",
-      "signal": {}
-    },
-    {
       "id": 2,
       "title": "iPhone X",
       "brand": "Apple",
